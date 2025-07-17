@@ -10,3 +10,10 @@ Este módulo contém implementações de diversos métodos numéricos para:
 - Integração numérica
 - Solução de sistemas lineares
 - Decomposição matricial
+---
+ ### RECURSOS UTILIZADOS
+<div style="display: inline_block"><br>
+  <a href="https://www.python.org/">
+  <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" />
+   <a/>
+</div>
